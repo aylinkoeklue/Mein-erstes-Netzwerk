@@ -1,0 +1,33 @@
+﻿from;to;weight
+Blair;Chuck;3
+Blair ;Serena;2
+Blair;Nate;1
+Blair;Dan;1
+Blair;Dorotha;2
+Serena;Chuck;1
+Serena;Nate;1
+Serena;Dan;3
+Serena;Chuck;1
+Serena;Lily;2
+Chuck;Nate;2
+Chuck;Bart ;2
+Chuck;Jenny;1
+Chuck;Dan;1
+Dan;Jenny;2
+Dan;Rufus;2
+Dan;Jessica;2
+Nate;Dan;1
+Lily;Rufus;3
+Rufus;Jenny;2
+Lily ;Bart ;2
+Nate;Jessica;2
+Rufus;Jessica;2
+Blair;Carter;1
+Serena;Eric;2
+Lily;Eric;2
+Blair;Cyrus;2
+Blair;Elenour;2
+Nate;Jenny;1
+Blaie;Louis;1
+Chuck;Eva;1
+Dan;Eric;2
